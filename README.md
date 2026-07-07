@@ -98,7 +98,7 @@ The most complete list of Free and Open Source Software (FOSS) and privacy-respe
 | [Bromite](https://github.com/bromite/bromite) | ✅ | ⭐⭐⭐⭐ | Ungoogled Chromium for Android (check maintenance status) |
 | [Cromite](https://github.com/uazo/cromite) | ✅ | ⭐⭐⭐⭐ | Active Bromite continuation |
 | [Onion Browser](https://onionbrowser.com) | ✅ | ⭐⭐⭐⭐⭐ | Tor-based, iOS |
-
+| [Tor Browser for Android](https://www.torproject.org/download/#android)| ✅ | ⭐⭐⭐⭐⭐ | Official Tor Browser, Android |
 ---
 
 ## Cloud Storage & File Sync
