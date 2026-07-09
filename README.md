@@ -4,7 +4,7 @@
 
 **The most complete list of Free & Open Source (FOSS) and privacy-respecting alternatives to mainstream software.**
 
-Curated and expanded from the biggest lists in the space —.
+Curated and expanded from the biggest lists in the space.
 
 </div>
 
