@@ -4,7 +4,7 @@
 
 **The most complete list of Free & Open Source (FOSS) and privacy-respecting alternatives to mainstream software.**
 
-Curated and expanded from the biggest lists in the space — [awesome-privacy](https://github.com/Lissy93/awesome-privacy), [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), [PrivacyGuides](https://www.privacyguides.org) — plus deep F-Droid and GitHub scanning.
+Curated and expanded from the biggest lists in the space —.
 
 </div>
 
