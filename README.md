@@ -1012,7 +1012,9 @@ Cross-reference these for anything still missing:
 ---
 
 <div align="center">
+### 🐦 Please follow my friend who helped make this list possible
 
+[@Labyrinthusian](https://twitter.com/Labyrinthusian)
 *This list is a living document — contributions, corrections and additions welcome via PR.*
 
 **License:** [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain, use freely.
