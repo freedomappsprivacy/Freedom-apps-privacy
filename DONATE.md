@@ -9,11 +9,11 @@ A short note: I deal with ongoing health issues and am currently unable to work,
 <table>
   <tr>
     <td><strong>₿ Bitcoin</strong></td>
-    <td><code>your-btc-address-here</code></td>
+    <td><code>bc1quhtcaxgfuk8jwp35m26nfwv2k6chxjt8dk5kyf</code></td>
   </tr>
   <tr>
     <td><strong>ɱ Monero</strong></td>
-    <td><code>your-xmr-address-here</code></td>
+    <td><code>42drQSErTQBbDKDm4jWhsB4RuXuMCTVnPCCGkChGXvLCXaedLbJXwyxFqRJZdsB1jTZmE7P8UDteCHbtxsKguB1rCztHC5C</code></td>
   </tr>
 </table>
 
