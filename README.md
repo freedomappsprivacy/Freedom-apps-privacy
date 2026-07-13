@@ -819,6 +819,7 @@ Other must-have FOSS Android apps (all on F-Droid unless noted).
 | App | FOSS | Privacy | Platform | Note |
 |---|---|---|---|---|
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | ✅ | ⭐⭐⭐⭐⭐ | Self | Full PDF toolkit: merge/split/OCR/convert, local |
+| [Slay PDF](https://slaypdf.com/) | ✅ | ⭐⭐⭐⭐⭐ | Web | Local browser PDF editor: split/merge/sign/edit, no uploads |
 | [PDFsam](https://pdfsam.org) | ✅ | ⭐⭐⭐⭐⭐ | Lin/Win/Mac | Merge/split/rotate desktop tool |
 | [Xournal++](https://xournalpp.github.io) | ✅ | ⭐⭐⭐⭐⭐ | Lin/Win/Mac | Annotate/handwrite on PDFs |
 | [Okular](https://okular.kde.org) | ✅ | ⭐⭐⭐⭐⭐ | Lin/Win/Mac | KDE document/PDF viewer + annotation |
