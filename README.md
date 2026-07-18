@@ -98,6 +98,7 @@ Curated and expanded from the biggest lists in the space.
 - [Notes & Knowledge](#notes--knowledge)
 - [Office Suites](#office-suites)
 - [Project & Task Management](#project--task-management)
+- [Scheduling & Booking](#scheduling--booking)
 - [PDF Tools](#pdf-tools)
 - [Personal Finance](#personal-finance)
 
@@ -813,6 +814,14 @@ Other must-have FOSS Android apps (all on F-Droid unless noted).
 | [OpenProject](https://www.openproject.org) | ✅ | ⭐⭐⭐⭐⭐ | Self | Full PM suite, Gantt (Community = FOSS) |
 | [Planka](https://planka.app) | ✅ | ⭐⭐⭐⭐ | Self | Realtime Trello alternative |
 | [Tasks.org](https://tasks.org) | ✅ | ⭐⭐⭐⭐⭐ | And | CalDAV to-do lists |
+
+## Scheduling & Booking
+
+| App | FOSS | Privacy | Platform | Note |
+|---|---|---|---|---|
+| [Tymeslot](https://github.com/Tymeslot/tymeslot) | ✅ | ⭐⭐⭐⭐⭐ | Self | Calendly alt; booking pages + full calendar, AGPL-3, no telemetry, CalDAV |
+| [Cal.com](https://cal.com) | ⚠️ | ⭐⭐⭐⭐ | Self | Calendly alt; self-hostable, mixed licensing (AGPL core) |
+| [Rallly](https://rallly.co) | ✅ | ⭐⭐⭐⭐⭐ | Self | Doodle alt; group meeting-time polls, self-hosted |
 
 ## PDF Tools
 
