@@ -794,6 +794,7 @@ Other must-have FOSS Android apps (all on F-Droid unless noted).
 | [AFFiNE](https://affine.pro) | ✅ | ⭐⭐⭐⭐ | all | Notion/Miro-style all-in-one |
 | [Obsidian](https://obsidian.md) | ⚠️ | ⭐⭐⭐⭐ | all | Free, local-first, but not open source |
 | [SilverBullet](https://silverbullet.md) | ✅ | ⭐⭐⭐⭐⭐ | Self | Self-hosted markdown knowledge base |
+| [Persona](https://github.com/jayamitkatariya/personacli) | ✅ | ⭐⭐⭐⭐⭐ | macOS/Web | Local-first workspace: notes, tasks, AI chat |
 
 ## Office Suites
 
