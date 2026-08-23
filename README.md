@@ -865,6 +865,7 @@ Other must-have FOSS Android apps (all on F-Droid unless noted).
 | [OpenShot](https://www.openshot.org) | ✅ | ⭐⭐⭐⭐⭐ | Beginner-friendly video editor |
 | [LosslessCut](https://github.com/mifi/lossless-cut) | ✅ | ⭐⭐⭐⭐⭐ | Cut/trim/merge without re-encoding |
 | [MKVToolNix](https://mkvtoolnix.download) | ✅ | ⭐⭐⭐⭐⭐ | Create/edit/mux MKV without re-encoding |
+| [MetadataRemover.ai](https://metadataremover.ai/) | ✅ | ⭐⭐⭐⭐⭐ | Browser-local metadata inspection/removal for supported image, PDF, DOCX, video, and MP3 files |
 | [HandBrake](https://handbrake.fr) | ✅ | ⭐⭐⭐⭐⭐ | Video transcoder/converter |
 | [Natron](https://natrongithub.github.io) | ✅ | ⭐⭐⭐⭐⭐ | Node compositing (After Effects alt) |
 | [Blender](https://www.blender.org) | ✅ | ⭐⭐⭐⭐⭐ | 3D + video editing/compositing |
