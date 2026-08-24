@@ -794,6 +794,7 @@ Other must-have FOSS Android apps (all on F-Droid unless noted).
 | [AFFiNE](https://affine.pro) | ✅ | ⭐⭐⭐⭐ | all | Notion/Miro-style all-in-one |
 | [Obsidian](https://obsidian.md) | ⚠️ | ⭐⭐⭐⭐ | all | Free, local-first, but not open source |
 | [SilverBullet](https://silverbullet.md) | ✅ | ⭐⭐⭐⭐⭐ | Self | Self-hosted markdown knowledge base |
+| [Weiyu](https://github.com/Sutera-Diffusus/WeChat-daily) | ✅ | ⭐⭐⭐⭐ | Win | Local-first WeChat archive and daily briefing workspace; MIT, installer and portable build |
 
 ## Office Suites
 
