@@ -885,6 +885,7 @@ Other must-have FOSS Android apps (all on F-Droid unless noted).
 | [OBS Studio](https://obsproject.com) | ✅ | ⭐⭐⭐⭐⭐ | Standard for recording & live streaming |
 | [Kooha](https://github.com/SeaDve/Kooha) | ✅ | ⭐⭐⭐⭐⭐ | Simple GNOME/Wayland screen recorder |
 | [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) | ✅ | ⭐⭐⭐⭐⭐ | Lightweight Linux recorder |
+| [Vertov](https://github.com/ankurmans/vertov-screen-recorder) | ✅ | Unrated | AGPL browser recorder with transcript editing and link sharing. Self-hostable on your own Cloudflare account. |
 
 ## E-Books & Reading
 
